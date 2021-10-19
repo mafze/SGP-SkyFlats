@@ -1,0 +1,86 @@
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.exe.config
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.exe
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.pdb
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\CSharpFITS_v1.1.dll
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\Newtonsoft.Json.dll
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\RestSharp.dll
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\Newtonsoft.Json.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\RestSharp.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.MainForm.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.Resources.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.SetupForm.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.GenerateResource.cache
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.CoreCompileInputs.cache
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.CopyComplete
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.exe
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.pdb
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.LogForm.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DriverAccess.dll
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Utilities.dll
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DeviceInterfaces.dll
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Exceptions.dll
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DriverAccess.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Utilities.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DeviceInterfaces.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Exceptions.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.AddFilterForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.exe.config
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.exe
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.pdb
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\SkyFlatsSGP.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DriverAccess.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Utilities.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\CSharpFITS_v1.1.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\Newtonsoft.Json.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\RestSharp.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Exceptions.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DriverAccess.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Utilities.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\Newtonsoft.Json.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\RestSharp.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.DeviceInterfaces.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\bin\Release\ASCOM.Exceptions.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.AddFilterForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.LogForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.MainForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.Resources.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.SetupForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.GenerateResource.cache
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.CoreCompileInputs.cache
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.CopyComplete
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.exe
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP\SkyFlatsSGP\obj\Release\SkyFlatsSGP.pdb
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\SkyFlatsSGP.exe.config
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\SkyFlatsSGP.exe
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\SkyFlatsSGP.pdb
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\SkyFlatsSGP.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.DriverAccess.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.Utilities.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\CSharpFITS_v1.1.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\Newtonsoft.Json.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\RestSharp.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.Exceptions.dll
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.DriverAccess.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.Utilities.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\Newtonsoft.Json.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\RestSharp.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.DeviceInterfaces.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\bin\Release\ASCOM.Exceptions.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.AddFilterForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.LogForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.MainForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.Resources.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.SetupForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.GenerateResource.cache
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.CoreCompileInputs.cache
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbproj.CopyComplete
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.exe
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.xml
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.pdb
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.HelpForm.resources
+D:\GoogleDrive\Astro\Soft dev\SkyFlatsSGP 1_00\SkyFlatsSGP\obj\Release\SkyFlatsSGP.vbprojAssemblyReference.cache
